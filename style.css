@@ -1,0 +1,37 @@
+h1{
+    color: red;
+}
+
+.header{
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;
+}
+
+.photo{
+    background-color: lightgrey;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.bodyimg{
+    color: navy;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menue{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.body{
+    margin: 0px;
+    background-color: #f7f2f2;
+}
